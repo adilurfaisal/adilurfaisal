@@ -5,9 +5,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adilur-faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adilur-faisal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adilur-faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/adilurfaisal/adilurfaisal/master/icons/linkedin/linkedin-original.svg" alt="adilur-faisal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6877099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6877099" height="30" width="40" /></a>
-<a href="https://fb.com/adilur.rahman.faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adilur.rahman.faisal" height="30" width="40" /></a>
+<a href="https://fb.com/adilur.rahman.faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/adilurfaisal/adilurfaisal/master/icons/facebook/facebook-plain.svg" alt="adilur.rahman.faisal" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~0102a889338c7e94d7" target="blank"><img align="center" src="https://raw.githubusercontent.com/adilurfaisal/adilurfaisal/master/icons/upwork/upwork-logo.png" alt="upwork" height="30" width="40" /></a>
+<a href="https://fiverr.com/users/adilurfaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/adilurfaisal/adilurfaisal/master/icons/fiverr/fiverr-logo.png" alt="fiverr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +31,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilurfaisal&show_icons=true&locale=en" alt="adilurfaisal" />
   <br/>
-  <img src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+  <img src="https://raw.githubusercontent.com/adilurfaisal/adilurfaisal/master/gif/working-on-table-animation.gif"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=adilurfaisal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
 </p>
